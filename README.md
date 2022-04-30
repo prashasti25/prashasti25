@@ -1,7 +1,7 @@
 - 👋 Hi, I’m prashasti singh gautam
-- 👀 I’m interested in MATLAB, IOT, robotics, and Arduino
-- 🌱 I’m currently learning IOT and working on a robotics project 
-- 💞️ I’m looking to work in the field of IOT and robotics 
+- 👀 I’m interested in VLSI, IOT, and robotics
+- 🌱 I’m currently learning VLSI design
+- 💞️ I’m looking to work in the field of VLSI, IOT and robotics 
 - 📫 How to reach me - prashastisinghgautam@gmail.com 
 
 <!---
